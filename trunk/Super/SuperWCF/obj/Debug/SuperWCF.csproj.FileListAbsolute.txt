@@ -1,0 +1,4 @@
+E:\WorkSpace\hongpline\Super\SuperWCF\bin\SuperWCF.dll
+E:\WorkSpace\hongpline\Super\SuperWCF\bin\SuperWCF.pdb
+E:\WorkSpace\hongpline\Super\SuperWCF\obj\Debug\SuperWCF.dll
+E:\WorkSpace\hongpline\Super\SuperWCF\obj\Debug\SuperWCF.pdb
